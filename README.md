@@ -45,14 +45,14 @@ Run command npm run start
 
 
 
-![screenshot 8](https://github.com/barathviknesh/minimalUIToReactUI/blob/main/public/images/screenshot_7.jpg?raw=true)
+![screenshot 8](https://github.com/barathviknesh/minimalUIToReactUI/blob/main/public/images/screenshot_8.jpg?raw=true)
 
 
 
 
 
 
-![screenshot 9](https://github.com/barathviknesh/minimalUIToReactUI/blob/main/public/images/screenshot_7.jpg?raw=true)
+![screenshot 9](https://github.com/barathviknesh/minimalUIToReactUI/blob/main/public/images/screenshot_9.jpg?raw=true)
 
 
 
