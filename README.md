@@ -1,11 +1,12 @@
 # minimalToReact
 
-Steps to run the project :
+**Steps to run the project :**
 
 Run command npm i from the root of the app.
+
 Run command npm run start
 
-ScreenShots of the project :
+**ScreenShots of the project :**
 
 
 ![screenshot 1](https://github.com/barathviknesh/minimalUIToReactUI/blob/main/public/images/Screenshot%20(505).png?raw=true)
